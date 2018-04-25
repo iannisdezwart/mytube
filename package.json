@@ -1,0 +1,19 @@
+{
+  "name": "mytube",
+  "version": "1.0.0",
+  "description": "MyTube is a music downloader for music platforms (youtube, soundcloud etc.) (school project)",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sachruhe/mytube.git"
+  },
+  "author": "Sacha Ruhe, Iannis de Zwart",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/sachruhe/mytube/issues"
+  },
+  "homepage": "https://github.com/sachruhe/mytube#readme"
+}
