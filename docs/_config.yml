@@ -1,1 +1,3 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
+show_downloads: true
+google_analytics: UA-118227179-1
