@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/sachruhe/mytube/issues"
   },
-  "homepage": "https://github.com/sachruhe/mytube#readme"
+  "homepage": "https://github.com/sachruhe/mytube#readme",
+  "devDependencies": {
+    "electron": "^1.8.4"
+  }
 }
